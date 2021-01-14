@@ -10,9 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #attach packages
 library(tidyverse)
-```
-
-```{r}
 
 ```
-
